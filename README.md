@@ -4,6 +4,6 @@ Job related repositories
 - pycountrycode (from working for prof. Vincent Arel-Bundock)
 
 Personal projects
-- crude-network (active)
+- crude-network (crude oil trade web visualization)
 - Quantitative-Macroeconomics (cool macroeconomics class)
 - printfleaklib (tool I built at the time I was playing Capture The Flags)
