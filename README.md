@@ -1,7 +1,7 @@
 Job related repositories
-- xclim (from Ouranos summer 202 internship)
-- marginaleffects/pymarginaleffects (from working for prof. Vincent Arel-Bundock)
-- pycountrycode (from working for prof. Vincent Arel-Bundock)
+- xclim (from Ouranos summer 2024 internship)
+- marginaleffects/pymarginaleffects (from working with prof. Vincent Arel-Bundock)
+- pycountrycode (from working with prof. Vincent Arel-Bundock)
 
 Personal projects
 - crude-network (crude oil trade web visualization)
