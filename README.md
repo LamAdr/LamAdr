@@ -4,7 +4,7 @@ Job related repositories
 - [pycountrycode](https://github.com/LamAdr/pycountrycode) (from working with prof. Vincent Arel-Bundock)
 
 Personal projects
-- [heuristic_ted](https://github.com/LamAdr/heuristic_ted) (Greedy Tree Edit Distance in C)
+- [heuristic_ted](https://github.com/LamAdr/heuristic_ted) (greedy Tree Edit Distance in C)
 - [pcap_logger](https://github.com/LamAdr/pcap_logger) (log centralization utility that receives and rotate PCAPs in Go)
 - [crude-network](https://github.com/LamAdr/crude-network) (crude oil trade web visualization in Julia)
 - [printfleaklib](https://github.com/LamAdr/printfleaklib) (CTF helper for exploitation of printf leaks in Python)
